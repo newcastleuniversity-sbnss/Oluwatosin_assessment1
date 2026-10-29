@@ -1,0 +1,23 @@
+1. EMBO J. 1984 Feb;3(2):439-46. doi: 10.1002/j.1460-2075.1984.tb01825.x.
+
+Organization of the human myoglobin gene.
+
+Weller P, Jeffreys AJ, Wilson V, Blanchetot A.
+
+Cross-hybridization of the grey seal myoglobin gene to human DNA detected a 
+single human myoglobin gene plus an extensive family of sequences apparently 
+related to the central exon of this gene. The functional human gene is 10.4 kb 
+long and has a haemoglobin-like three exon/two intron structure with long 
+non-coding regions similar to its seal homologue. At least 300 bp of 5'-flanking 
+region are closely homologous between the two genes, with the exception of a 
+divergent purine-rich region 68-114 bp upstream of the cap site. A diverged 
+tandem repetitive sequence based on (GGAT)165 is located 1100-1750 bp upstream 
+from the gene; internal homology units within this sequence suggest sequence 
+homogenization by gene microconversions. A second 33-bp tandem repeat element in 
+the first intron is flanked by a 9-bp direct repeat, shares homology with other 
+tandem repetitive elements in the human genome and may represent a novel form of 
+transposable element.
+
+DOI: 10.1002/j.1460-2075.1984.tb01825.x
+PMCID: PMC557363
+PMID: 6571704 [Indexed for MEDLINE]

@@ -1,0 +1,478 @@
+ID   MYG_HUMAN               Reviewed;         154 AA.
+AC   P02144; Q52H51; Q5THY7;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   02-SEP-2026, entry version 218.
+DE   RecName: Full=Myoglobin {ECO:0000303|PubMed:5285572};
+DE   AltName: Full=Nitrite reductase MB {ECO:0000305|PubMed:32891753};
+DE            EC=1.7.-.- {ECO:0000269|PubMed:32891753};
+DE   AltName: Full=Pseudoperoxidase MB {ECO:0000305|PubMed:34679218};
+DE            EC=1.11.1.- {ECO:0000269|PubMed:34679218};
+GN   Name=MB {ECO:0000312|HGNC:HGNC:6915};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=6571704; DOI=10.1002/j.1460-2075.1984.tb01825.x;
+RA   Weller P., Jeffreys A.J., Wilson V., Blanchetot A.;
+RT   "Organization of the human myoglobin gene.";
+RL   EMBO J. 3:439-446(1984).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=2989088; DOI=10.1016/0378-1119(85)90231-8;
+RA   Akaboshi E.;
+RT   "Cloning of the human myoglobin gene.";
+RL   Gene 33:241-249(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=15461802; DOI=10.1186/gb-2004-5-10-r84;
+RA   Collins J.E., Wright C.L., Edwards C.A., Davis M.P., Grinham J.A.,
+RA   Cole C.G., Goward M.E., Aguado B., Mallya M., Mokrab Y., Huckle E.J.,
+RA   Beare D.M., Dunham I.;
+RT   "A genome annotation-driven approach to cloning the human ORFeome.";
+RL   Genome Biol. 5:R84.1-R84.11(2004).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RG   NIEHS SNPs program;
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=10591208; DOI=10.1038/990031;
+RA   Dunham I., Hunt A.R., Collins J.E., Bruskiewich R., Beare D.M., Clamp M.,
+RA   Smink L.J., Ainscough R., Almeida J.P., Babbage A.K., Bagguley C.,
+RA   Bailey J., Barlow K.F., Bates K.N., Beasley O.P., Bird C.P., Blakey S.E.,
+RA   Bridgeman A.M., Buck D., Burgess J., Burrill W.D., Burton J., Carder C.,
+RA   Carter N.P., Chen Y., Clark G., Clegg S.M., Cobley V.E., Cole C.G.,
+RA   Collier R.E., Connor R., Conroy D., Corby N.R., Coville G.J., Cox A.V.,
+RA   Davis J., Dawson E., Dhami P.D., Dockree C., Dodsworth S.J., Durbin R.M.,
+RA   Ellington A.G., Evans K.L., Fey J.M., Fleming K., French L., Garner A.A.,
+RA   Gilbert J.G.R., Goward M.E., Grafham D.V., Griffiths M.N.D., Hall C.,
+RA   Hall R.E., Hall-Tamlyn G., Heathcott R.W., Ho S., Holmes S., Hunt S.E.,
+RA   Jones M.C., Kershaw J., Kimberley A.M., King A., Laird G.K., Langford C.F.,
+RA   Leversha M.A., Lloyd C., Lloyd D.M., Martyn I.D., Mashreghi-Mohammadi M.,
+RA   Matthews L.H., Mccann O.T., Mcclay J., Mclaren S., McMurray A.A.,
+RA   Milne S.A., Mortimore B.J., Odell C.N., Pavitt R., Pearce A.V., Pearson D.,
+RA   Phillimore B.J.C.T., Phillips S.H., Plumb R.W., Ramsay H., Ramsey Y.,
+RA   Rogers L., Ross M.T., Scott C.E., Sehra H.K., Skuce C.D., Smalley S.,
+RA   Smith M.L., Soderlund C., Spragon L., Steward C.A., Sulston J.E.,
+RA   Swann R.M., Vaudin M., Wall M., Wallis J.M., Whiteley M.N., Willey D.L.,
+RA   Williams L., Williams S.A., Williamson H., Wilmer T.E., Wilming L.,
+RA   Wright C.L., Hubbard T., Bentley D.R., Beck S., Rogers J., Shimizu N.,
+RA   Minoshima S., Kawasaki K., Sasaki T., Asakawa S., Kudoh J., Shintani A.,
+RA   Shibuya K., Yoshizaki Y., Aoki N., Mitsuyama S., Roe B.A., Chen F., Chu L.,
+RA   Crabtree J., Deschamps S., Do A., Do T., Dorman A., Fang F., Fu Y., Hu P.,
+RA   Hua A., Kenton S., Lai H., Lao H.I., Lewis J., Lewis S., Lin S.-P., Loh P.,
+RA   Malaj E., Nguyen T., Pan H., Phan S., Qi S., Qian Y., Ray L., Ren Q.,
+RA   Shaull S., Sloan D., Song L., Wang Q., Wang Y., Wang Z., White J.,
+RA   Willingham D., Wu H., Yao Z., Zhan M., Zhang G., Chissoe S., Murray J.,
+RA   Miller N., Minx P., Fulton R., Johnson D., Bemis G., Bentley D.,
+RA   Bradshaw H., Bourne S., Cordes M., Du Z., Fulton L., Goela D., Graves T.,
+RA   Hawkins J., Hinds K., Kemp K., Latreille P., Layman D., Ozersky P.,
+RA   Rohlfing T., Scheet P., Walker C., Wamsley A., Wohldmann P., Pepin K.,
+RA   Nelson J., Korf I., Bedell J.A., Hillier L.W., Mardis E., Waterston R.,
+RA   Wilson R., Emanuel B.S., Shaikh T., Kurahashi H., Saitta S., Budarf M.L.,
+RA   McDermid H.E., Johnson A., Wong A.C.C., Morrow B.E., Edelmann L., Kim U.J.,
+RA   Shizuya H., Simon M.I., Dumanski J.P., Peyrard M., Kedra D., Seroussi E.,
+RA   Fransson I., Tapia I., Bruder C.E., O'Brien K.P., Wilkinson P.,
+RA   Bodenteich A., Hartman K., Hu X., Khan A.S., Lane L., Tilahun Y.,
+RA   Wright H.;
+RT   "The DNA sequence of human chromosome 22.";
+RL   Nature 402:489-495(1999).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Skeletal muscle;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [8]
+RP   PROTEIN SEQUENCE OF 2-154.
+RX   PubMed=5285572; DOI=10.1038/newbio232149a0;
+RA   Romero-Herrera A.E., Lehmann H.;
+RT   "Primary structure of human myoglobin.";
+RL   Nature New Biol. 232:149-152(1971).
+RN   [9]
+RP   SEQUENCE REVISION TO 20-23 AND 84.
+RX   PubMed=11452891; DOI=10.1016/0005-2795(71)90140-1;
+RA   Romero-Herrera A.E., Lehmann H.;
+RT   "The myoglobin of primates. I. Hylobates agilis (gibbon).";
+RL   Biochim. Biophys. Acta 251:482-488(1971).
+RN   [10]
+RP   SEQUENCE REVISION TO 100-102.
+RX   PubMed=4627044; DOI=10.1016/0005-2795(72)90107-9;
+RA   Romero-Herrera A.E., Lehmann H.;
+RT   "The myoglobin of primates. II. Pan troglodytes (chimpanzee).";
+RL   Biochim. Biophys. Acta 278:62-67(1972).
+RN   [11]
+RP   PROTEIN SEQUENCE OF 2-21.
+RC   TISSUE=Heart;
+RX   PubMed=7895732; DOI=10.1002/elps.11501501209;
+RA   Corbett J.M., Wheeler C.H., Baker C.S., Yacoub M.H., Dunn M.J.;
+RT   "The human myocardial two-dimensional gel protein database: update 1994.";
+RL   Electrophoresis 15:1459-1465(1994).
+RN   [12]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=32891753; DOI=10.1016/j.niox.2020.08.005;
+RA   Quesnelle K., Guimaraes D.A., Rao K., Singh A.B., Wang Y., Hogg N.,
+RA   Shiva S.;
+RT   "Myoglobin promotes nitrite-dependent mitochondrial S-nitrosation to
+RT   mediate cytoprotection after hypoxia/reoxygenation.";
+RL   Nitric Oxide 104:36-43(2020).
+RN   [13] {ECO:0007744|PDB:3RGK}
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF MUTANT ARG-46 AND ALA-111 IN
+RP   COMPLEX WITH HEME.
+RX   PubMed=2342104; DOI=10.1016/s0022-2836(05)80181-0;
+RA   Hubbard S.R., Hendrickson W.A., Lambright D.G., Boxer S.G.;
+RT   "X-ray crystal structure of a recombinant human myoglobin mutant at 2.8-A
+RT   resolution.";
+RL   J. Mol. Biol. 213:215-218(1990).
+RN   [14]
+RP   VARIANT LYS-55.
+RX   PubMed=5805522; DOI=10.1038/223832a0;
+RA   Boulton F.E., Huntsman R.G., Lorkin P.A., Lehmann H.;
+RT   "Abnormal human myoglobin: 53 (D4) glutamic acid-->lysine.";
+RL   Nature 223:832-833(1969).
+RN   [15]
+RP   VARIANT TRP-140.
+RX   PubMed=5555219; DOI=10.1016/0005-2795(71)90288-1;
+RA   Boulton F.E., Huntsman R.G., Romero Herrera A., Lorkin P.A., Lehmann H.;
+RT   "The third variant of human myoglobin showing an unusual amino acid
+RT   substitution: 138(H16)arginine-->tryptophan.";
+RL   Biochim. Biophys. Acta 229:716-719(1971).
+RN   [16]
+RP   VARIANT ASN-134.
+RX   PubMed=5555226; DOI=10.1016/0005-2795(71)90309-6;
+RA   Boulton F.E., Huntsman R.G., Romero Herrera A.E., Lorkin P.A., Lehmann H.;
+RT   "A human myoglobin variant 133 (H-10)lysine-->asparagine.";
+RL   Biochim. Biophys. Acta 229:871-876(1971).
+RN   [17]
+RP   VARIANT GLN-140.
+RX   PubMed=5540041; DOI=10.1111/j.1365-2141.1971.tb00787.x;
+RA   Boulton F.E., Huntsman R.G., Yawson G.I., Romero-Herrera A.E., Lorkin P.A.;
+RT   "The second variant of human myoglobin; 138(H16) arginine leads to
+RT   glutamine.";
+RL   Br. J. Haematol. 20:69-74(1971).
+RN   [18]
+RP   INVOLVEMENT IN MYOSB, VARIANT MYOSB TYR-98, CHARACTERIZATION OF VARIANT
+RP   MYOSB TYR-98, FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=30918256; DOI=10.1038/s41467-019-09111-2;
+RA   Olive M., Engvall M., Ravenscroft G., Cabrera-Serrano M., Jiao H.,
+RA   Bortolotti C.A., Pignataro M., Lambrughi M., Jiang H., Forrest A.R.R.,
+RA   Benseny-Cases N., Hofbauer S., Obinger C., Battistuzzi G., Bellei M.,
+RA   Borsari M., Di Rocco G., Viola H.M., Hool L.C., Cladera J.,
+RA   Lagerstedt-Robinson K., Xiang F., Wredenberg A., Miralles F., Baiges J.J.,
+RA   Malfatti E., Romero N.B., Streichenberger N., Vial C., Claeys K.G.,
+RA   Straathof C.S.M., Goris A., Freyer C., Lammens M., Bassez G., Kere J.,
+RA   Clemente P., Sejersen T., Udd B., Vidal N., Ferrer I., Edstroem L.,
+RA   Wedell A., Laing N.G.;
+RT   "Myoglobinopathy is an adult-onset autosomal dominant myopathy with
+RT   characteristic sarcoplasmic inclusions.";
+RL   Nat. Commun. 10:1396-1396(2019).
+RN   [19] {ECO:0007744|PDB:3RGK}
+RP   CHARACTERIZATION OF VARIANT MYOSB TYR-98, FUNCTION, CATALYTIC ACTIVITY, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=34679218; DOI=10.1111/febs.16235;
+RA   Hofbauer S., Pignataro M., Borsari M., Bortolotti C.A., Di Rocco G.,
+RA   Ravenscroft G., Furtmueller P.G., Obinger C., Sola M., Battistuzzi G.;
+RT   "Pseudoperoxidase activity, conformational stability, and aggregation
+RT   propensity of the His98Tyr myoglobin variant: implications for the onset of
+RT   myoglobinopathy.";
+RL   FEBS J. 289:1105-1117(2022).
+RN   [20]
+RP   VARIANT MYOSB TYR-98.
+RX   PubMed=35527200; DOI=10.1016/j.nmd.2022.02.010;
+RA   Hama Y., Mori-Yoshimura M., Aizawa K., Oya Y., Nakamura H., Inoue M.,
+RA   Iida A., Sato N., Nonaka I., Nishino I., Takahashi Y.;
+RT   "Myoglobinopathy affecting facial and oropharyngeal muscles.";
+RL   Neuromuscul. Disord. 32:516-520(2022).
+CC   -!- FUNCTION: Monomeric heme protein which primary function is to store
+CC       oxygen and facilitate its diffusion within muscle tissues. Reversibly
+CC       binds oxygen through a pentacoordinated heme iron and enables its
+CC       timely and efficient release as needed during periods of heightened
+CC       demand (PubMed:30918256, PubMed:34679218). Depending on the oxidative
+CC       conditions of tissues and cells, and in addition to its ability to bind
+CC       oxygen, it also has a nitrite reductase activity whereby it regulates
+CC       the production of bioactive nitric oxide (PubMed:32891753). Under
+CC       stress conditions, like hypoxia and anoxia, it also protects cells
+CC       against reactive oxygen species thanks to its pseudoperoxidase activity
+CC       (PubMed:34679218). {ECO:0000269|PubMed:30918256,
+CC       ECO:0000269|PubMed:32891753, ECO:0000269|PubMed:34679218}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Fe(III)-heme b-[protein] + nitric oxide + H2O = Fe(II)-heme b-
+CC         [protein] + nitrite + 2 H(+); Xref=Rhea:RHEA:77711, Rhea:RHEA-
+CC         COMP:18975, Rhea:RHEA-COMP:18976, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:16301, ChEBI:CHEBI:16480,
+CC         ChEBI:CHEBI:55376, ChEBI:CHEBI:60344;
+CC         Evidence={ECO:0000269|PubMed:32891753};
+CC       PhysiologicalDirection=right-to-left; Xref=Rhea:RHEA:77713;
+CC         Evidence={ECO:0000305|PubMed:32891753};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=H2O2 + AH2 = A + 2 H2O; Xref=Rhea:RHEA:30275,
+CC         ChEBI:CHEBI:13193, ChEBI:CHEBI:15377, ChEBI:CHEBI:16240,
+CC         ChEBI:CHEBI:17499; Evidence={ECO:0000269|PubMed:34679218};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=163 uM for H2O2 {ECO:0000269|PubMed:34679218};
+CC   -!- SUBUNIT: Monomeric. {ECO:0000250|UniProtKB:P02185}.
+CC   -!- INTERACTION:
+CC       P02144; O00230: CORT; NbExp=2; IntAct=EBI-15106010, EBI-20824070;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm, sarcoplasm
+CC       {ECO:0000269|PubMed:30918256}.
+CC   -!- DISEASE: Myopathy, sarcoplasmic body (MYOSB) [MIM:620286]: An autosomal
+CC       dominant, slowly progressive muscle disorder manifesting in adulthood
+CC       with proximal and axial weakness that progresses to involve distal
+CC       muscles. Patients may lose ambulation after a long disease course, and
+CC       some individuals develop respiratory or cardiac symptoms. Muscle
+CC       pathology features include sarcoplasmic bodies in skeletal and cardiac
+CC       muscles. {ECO:0000269|PubMed:30918256, ECO:0000269|PubMed:34679218,
+CC       ECO:0000269|PubMed:35527200}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the globin family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00238}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X00371; CAA25109.1; -; Genomic_DNA.
+DR   EMBL; X00372; CAA25109.1; JOINED; Genomic_DNA.
+DR   EMBL; X00373; CAA25109.1; JOINED; Genomic_DNA.
+DR   EMBL; M14603; AAA59595.1; -; Genomic_DNA.
+DR   EMBL; M10090; AAA59595.1; JOINED; Genomic_DNA.
+DR   EMBL; M14602; AAA59595.1; JOINED; Genomic_DNA.
+DR   EMBL; CR456516; CAG30402.1; -; mRNA.
+DR   EMBL; CR541949; CAG46747.1; -; mRNA.
+DR   EMBL; DQ003030; AAX84516.1; -; Genomic_DNA.
+DR   EMBL; AL022334; CAI21837.1; -; Genomic_DNA.
+DR   EMBL; AL049747; CAI21837.1; JOINED; Genomic_DNA.
+DR   EMBL; BC014547; AAH14547.1; -; mRNA.
+DR   CCDS; CCDS13917.1; -.
+DR   PIR; I53991; MYHU.
+DR   RefSeq; NP_001349775.1; NM_001362846.2.
+DR   RefSeq; NP_001369738.1; NM_001382809.1.
+DR   RefSeq; NP_001369739.1; NM_001382810.1.
+DR   RefSeq; NP_001369740.1; NM_001382811.1.
+DR   RefSeq; NP_005359.1; NM_005368.3.
+DR   RefSeq; NP_976311.1; NM_203377.1.
+DR   RefSeq; NP_976312.1; NM_203378.1.
+DR   PDB; 3RGK; X-ray; 1.65 A; A=2-154.
+DR   AlphaFoldDB; P02144; -.
+DR   MDposit; P02144; -.
+DR   SMR; P02144; -.
+DR   BioGRID; 110321; 18.
+DR   FunCoup; P02144; 163.
+DR   IntAct; P02144; 7.
+DR   STRING; 9606.ENSP00000352835; -.
+DR   BindingDB; P02144; -.
+DR   ChEMBL; CHEMBL2406892; -.
+DR   DrugBank; DB02671; 1-Methylimidazole.
+DR   DrugBank; DB03385; 4-Methylimidazole.
+DR   DrugBank; DB02379; Beta-D-Glucose.
+DR   DrugBank; DB02073; Biliverdine IX Alpha.
+DR   DrugBank; DB11588; Carbon monoxide.
+DR   DrugBank; DB03399; Ethyl Isocyanide.
+DR   DrugBank; DB03366; Imidazole.
+DR   DrugBank; DB04337; Isocyanomethane.
+DR   DrugBank; DB02396; Methylethylamine.
+DR   DrugBank; DB01826; N-Butyl Isocyanide.
+DR   DrugBank; DB04050; N-Propyl Isocyanide.
+DR   DrugBank; DB02646; Nitrosoethane.
+DR   DrugBank; DB09112; Nitrous acid.
+DR   DrugBank; DB01710; Porphyrin Fe(III).
+DR   DrugBank; DB02528; Tetrazolyl Histidine.
+DR   DrugCentral; P02144; -.
+DR   TCDB; 1.A.107.1.3; the pore-forming globin (globin) family.
+DR   CarbonylDB; P02144; -.
+DR   iPTMnet; P02144; -.
+DR   PhosphoSitePlus; P02144; -.
+DR   BioMuta; MB; -.
+DR   DMDM; 127661; -.
+DR   jPOST; P02144; -.
+DR   MassIVE; P02144; -.
+DR   PaxDb; 9606-ENSP00000352835; -.
+DR   PeptideAtlas; P02144; -.
+DR   ProteomicsDB; 51517; -.
+DR   ABCD; P02144; 1 sequenced antibody.
+DR   Antibodypedia; 292; 1366 antibodies from 50 providers.
+DR   DNASU; 4151; -.
+DR   Ensembl; ENST00000359787.5; ENSP00000352835.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000397326.7; ENSP00000380489.2; ENSG00000198125.14.
+DR   Ensembl; ENST00000397328.5; ENSP00000380491.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000406324.5; ENSP00000384239.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000902250.1; ENSP00000572309.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000902251.1; ENSP00000572310.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946177.1; ENSP00000616236.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946178.1; ENSP00000616237.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946179.1; ENSP00000616238.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946180.1; ENSP00000616239.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946181.1; ENSP00000616240.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946182.1; ENSP00000616241.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946183.1; ENSP00000616242.1; ENSG00000198125.14.
+DR   Ensembl; ENST00000946184.1; ENSP00000616243.1; ENSG00000198125.14.
+DR   GeneID; 4151; -.
+DR   KEGG; hsa:4151; -.
+DR   MANE-Select; ENST00000397326.7; ENSP00000380489.2; NM_005368.3; NP_005359.1.
+DR   UCSC; uc003anz.4; human.
+DR   AGR; HGNC:6915; -.
+DR   ClinPGx; PA30658; -.
+DR   CTD; 4151; -.
+DR   DisGeNET; 4151; -.
+DR   GeneCards; MB; -.
+DR   HGNC; HGNC:6915; MB.
+DR   HPA; ENSG00000198125; Group enriched (heart muscle, skeletal muscle, tongue).
+DR   MalaCards; MB; -.
+DR   MIM; 160000; gene.
+DR   MIM; 620286; phenotype.
+DR   OpenTargets; ENSG00000198125; -.
+DR   VEuPathDB; HostDB:ENSG00000198125; -.
+DR   eggNOG; KOG3378; Eukaryota.
+DR   GeneTree; ENSGT00940000160809; -.
+DR   InParanoid; P02144; -.
+DR   OMA; VIIRMFQ; -.
+DR   OrthoDB; 6344802at2759; -.
+DR   PAN-GO; P02144; 6 GO annotations based on evolutionary models.
+DR   PhylomeDB; P02144; -.
+DR   PathwayCommons; P02144; -.
+DR   Reactome; R-HSA-8981607; Intracellular oxygen transport.
+DR   SignaLink; P02144; -.
+DR   Agora; ENSG00000198125; -.
+DR   BioGRID-ORCS; 4151; 10 hits in 1149 CRISPR screens.
+DR   ChiTaRS; MB; human.
+DR   EvolutionaryTrace; P02144; -.
+DR   GeneWiki; Myoglobin; -.
+DR   GenomeRNAi; 4151; -.
+DR   Pharos; P02144; Tbio.
+DR   PRO; PR:P02144; -.
+DR   Proteomes; UP000005640; Chromosome 22.
+DR   RNAct; P02144; protein.
+DR   Bgee; ENSG00000198125; Expressed in heart right ventricle and 141 other cell types or tissues.
+DR   ExpressionAtlas; P02144; baseline and differential.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0016528; C:sarcoplasm; IDA:UniProtKB.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0098809; F:nitrite reductase activity; IDA:UniProtKB.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen carrier activity; IMP:UniProtKB.
+DR   GO; GO:0004601; F:peroxidase activity; IDA:UniProtKB.
+DR   GO; GO:0015671; P:oxygen transport; IBA:GO_Central.
+DR   GO; GO:0019430; P:removal of superoxide radicals; IDA:UniProtKB.
+DR   GO; GO:0003009; P:skeletal muscle contraction; IBA:GO_Central.
+DR   CDD; cd08926; Mb; 1.
+DR   Gene3D; 6.10.140.2100; -; 1.
+DR   Gene3D; 6.10.140.2110; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like_sf.
+DR   InterPro; IPR002335; Myoglobin.
+DR   PANTHER; PTHR47132; MYOGLOBIN; 1.
+DR   PANTHER; PTHR47132:SF1; MYOGLOBIN; 1.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR00613; MYOGLOBIN.
+DR   SUPFAM; SSF46458; Globin-like; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+DR   PDBsum; 3RGK; -.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; Direct protein sequencing; Disease variant; Heme;
+KW   Iron; Metal-binding; Muscle protein; Oxidoreductase; Oxygen transport;
+KW   Phosphoprotein; Proteomics identification; Reference proteome; Transport.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:5285572,
+FT                   ECO:0000269|PubMed:7895732"
+FT   CHAIN           2..154
+FT                   /note="Myoglobin"
+FT                   /id="PRO_0000053303"
+FT   DOMAIN          2..148
+FT                   /note="Globin"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00238"
+FT   BINDING         65
+FT                   /ligand="nitrite"
+FT                   /ligand_id="ChEBI:CHEBI:16301"
+FT                   /evidence="ECO:0000250|UniProtKB:P68082"
+FT   BINDING         65
+FT                   /ligand="O2"
+FT                   /ligand_id="ChEBI:CHEBI:15379"
+FT                   /evidence="ECO:0000250|UniProtKB:P02189,
+FT                   ECO:0000255|PROSITE-ProRule:PRU00238"
+FT   BINDING         94
+FT                   /ligand="heme b"
+FT                   /ligand_id="ChEBI:CHEBI:60344"
+FT                   /ligand_part="Fe"
+FT                   /ligand_part_id="ChEBI:CHEBI:18248"
+FT                   /note="proximal binding residue"
+FT                   /evidence="ECO:0000269|PubMed:2342104,
+FT                   ECO:0007744|PDB:3RGK"
+FT   MOD_RES         4
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000250|UniProtKB:Q9QZ76"
+FT   MOD_RES         68
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000250|UniProtKB:P04247"
+FT   VARIANT         55
+FT                   /note="E -> K (in dbSNP:rs145465287)"
+FT                   /evidence="ECO:0000269|PubMed:5805522"
+FT                   /id="VAR_003180"
+FT   VARIANT         98
+FT                   /note="H -> Y (in MYOSB; decreased oxygen binding; changed
+FT                   oxygen carrier activity; exhibits a higher tendency to form
+FT                   high-molecular-weight aggregates; more prone to heme
+FT                   bleaching)"
+FT                   /evidence="ECO:0000269|PubMed:30918256,
+FT                   ECO:0000269|PubMed:34679218, ECO:0000269|PubMed:35527200"
+FT                   /id="VAR_088618"
+FT   VARIANT         134
+FT                   /note="K -> N (in dbSNP:rs766095327)"
+FT                   /evidence="ECO:0000269|PubMed:5555226"
+FT                   /id="VAR_003181"
+FT   VARIANT         140
+FT                   /note="R -> Q (in dbSNP:rs142225854)"
+FT                   /evidence="ECO:0000269|PubMed:5540041"
+FT                   /id="VAR_003182"
+FT   VARIANT         140
+FT                   /note="R -> W (in dbSNP:rs767663245)"
+FT                   /evidence="ECO:0000269|PubMed:5555219"
+FT                   /id="VAR_003183"
+FT   CONFLICT        106
+FT                   /note="E -> Q (in Ref. 5; AAX84516)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        129
+FT                   /note="Q -> E (in Ref. 2; AAA59595)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           5..18
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           19..21
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           22..36
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           38..43
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           45..47
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           53..57
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           60..77
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   TURN            78..81
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           84..96
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           102..119
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   TURN            121..123
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+FT   HELIX           126..149
+FT                   /evidence="ECO:0007829|PDB:3RGK"
+SQ   SEQUENCE   154 AA;  17184 MW;  F6A41F19A525F09C CRC64;
+     MGLSDGEWQL VLNVWGKVEA DIPGHGQEVL IRLFKGHPET LEKFDKFKHL KSEDEMKASE
+     DLKKHGATVL TALGGILKKK GHHEAEIKPL AQSHATKHKI PVKYLEFISE CIIQVLQSKH
+     PGDFGADAQG AMNKALELFR KDMASNYKEL GFQG
+//
