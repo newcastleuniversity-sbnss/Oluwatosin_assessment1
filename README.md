@@ -1,24 +1,24 @@
 # Author
-*Name: Oluwatosin Yekpogu
-*Course:  Mres Biomedical Informatics
-*Project: Bioinformatics for Biomedical Scientists MMB8052 Practical Assessment
-*Date: 30/10/2026
++ Name: Oluwatosin Yekpogu
++ Course:  Mres Biomedical Informatics
++ Project: Bioinformatics for Biomedical Scientists MMB8052 Practical Assessment
++ Date: 30/10/2026
 
 # Process
-*This project contains linux commands and bash scripts I used to complete my Assessment
-*My scripts are stored in the scripts directory, while downloaded files and generated outputs are stored in the data directory and results directory respectively
++ This project contains linux commands and bash scripts I used to complete my Assessment
++ My scripts are stored in the scripts directory, while downloaded files and generated outputs are stored in the data directory and results directory respectively
 ## Processes carried out:
-*Creating directories and files with various linux commands
-*Downloading DNA sequence data from Uniprot and provided websites
-*Information extraction using grep command
-*Documentation of files through Git and Github
++ Creating directories and files with various linux commands
++ Downloading DNA sequence data from Uniprot and provided websites
++ Information extraction using grep command
++ Documentation of files through Git and Github
 ## How to run the scripts
 ### change to the Scripts directory
-*cd ~/Assessment/scripts
++ cd ~/Assessment/scripts
 ### Run the single script to see all answers from question 21 to 30
-*bash 21_30answers.sh
++ bash 21_30answers.sh
 # Data
-*The project uses biological data obtained from the assessment questions on canvas and some from public databases
++ The project uses biological data obtained from the assessment questions on canvas and some from public databases
 ### Canvas Data url:
 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/dna_to_translate.fa
                 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01
