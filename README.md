@@ -24,9 +24,11 @@
 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/dna_to_translate.fa
 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01
 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/table_01.csv
-### UNIPROT :  https://rest.uniprot.org/uniprotkb/$ID.fasta
+### UNIPROT :  
++ https://rest.uniprot.org/uniprotkb/$ID.fasta
 + Uniprot IDs:    P69905,P68871, P02144, P01942
-### NCBI    :  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=$PMID&rettype=abstract&retm
+### NCBI    :  
++ https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=$PMID&rettype=abstract&retm
 
 # Software Used and version
 + linux Operating system (6.17.0-1019-aws)
