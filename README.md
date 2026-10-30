@@ -21,8 +21,8 @@
 + The project uses biological data obtained from the assessment questions on canvas and some from public databases
 ### Canvas Data url:
 + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/dna_to_translate.fa
-                + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01
-                + https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/table_01.csv
++ https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01
++ https://raw.githubusercontent.com/sjcockell/mmb8052/main/assessments/assessment_01/table_01.csv
 ### UNIPROT :  https://rest.uniprot.org/uniprotkb/$ID.fasta
 + Uniprot IDs:    P69905,P68871, P02144, P01942
 ### NCBI    :  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=$PMID&rettype=abstract&retm
